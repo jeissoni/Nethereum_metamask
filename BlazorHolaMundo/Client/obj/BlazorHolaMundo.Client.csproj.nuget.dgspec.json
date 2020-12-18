@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Client\\BlazorHolaMundo.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Client\\BlazorHolaMundo.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Client\\BlazorHolaMundo.Client.csproj",
+        "projectName": "BlazorHolaMundo.Client",
+        "projectPath": "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Client\\BlazorHolaMundo.Client.csproj",
+        "packagesPath": "C:\\Users\\jeiss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Shared\\BlazorHolaMundo.Shared.csproj": {
+                "projectPath": "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Shared\\BlazorHolaMundo.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Nethereum.Web3": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Shared\\BlazorHolaMundo.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Shared\\BlazorHolaMundo.Shared.csproj",
+        "projectName": "BlazorHolaMundo.Shared",
+        "projectPath": "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Shared\\BlazorHolaMundo.Shared.csproj",
+        "packagesPath": "C:\\Users\\jeiss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeiss\\source\\repos\\Blazor\\BlazorHolaMundo\\BlazorHolaMundo\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jeiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

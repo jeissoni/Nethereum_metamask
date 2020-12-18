@@ -1,0 +1,12 @@
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\bin\Debug\net5.0\BlazorHolaMundo.Shared.deps.json
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\bin\Debug\net5.0\BlazorHolaMundo.Shared.dll
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\bin\Debug\net5.0\ref\BlazorHolaMundo.Shared.dll
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\bin\Debug\net5.0\BlazorHolaMundo.Shared.pdb
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\BlazorHolaMundo.Shared.csprojAssemblyReference.cache
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\BlazorHolaMundo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\BlazorHolaMundo.Shared.AssemblyInfoInputs.cache
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\BlazorHolaMundo.Shared.AssemblyInfo.cs
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\BlazorHolaMundo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\BlazorHolaMundo.Shared.dll
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\ref\BlazorHolaMundo.Shared.dll
+C:\Users\jeiss\source\repos\Blazor\BlazorHolaMundo\BlazorHolaMundo\Shared\obj\Debug\net5.0\BlazorHolaMundo.Shared.pdb

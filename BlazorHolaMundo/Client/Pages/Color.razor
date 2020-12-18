@@ -1,0 +1,41 @@
+﻿@using Nethereum.Web3;
+@using Nethereum.Hex.HexTypes;
+
+
+@inject IJSRuntime JSRuntime;
+@inject MetamaskService metamaskService;
+@inject MetamaskInterceptor metamaskInterceptor;
+
+
+@page "/color"
+
+
+
+@code {
+
+    //bool EthereumEnabled { get; set; }
+    //string SelectedAccount { get; set; }
+
+
+    //protected async Task EnableEthereumAsync()
+    //{
+    //    EthereumEnabled = await metamaskService.EnableEthereumAsync();
+    //    if (EthereumEnabled)
+    //    {
+    //        SelectedAccount = await metamaskService.GetSelectedAccount();
+    //    }
+    //}
+
+}
+
+<h3>Color</h3>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-3">
+            <button type="button" class="btn btn-success">Conectar</button>
+        </div>
+    </div>
+</div>
+
+
